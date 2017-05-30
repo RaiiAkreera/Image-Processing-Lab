@@ -195,5 +195,10 @@ namespace Lab2_Convert_RGB
         {
 
         }
+
+        private void button4_Click_1(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello I'm Wizards");
+        }
     }
 }
